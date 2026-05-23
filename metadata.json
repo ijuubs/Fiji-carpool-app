@@ -1,0 +1,6 @@
+{
+  "name": "VeiliuCarpool",
+  "description": "Verified corporate carpool matching platform for employees and university students in Suva, Fiji",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
